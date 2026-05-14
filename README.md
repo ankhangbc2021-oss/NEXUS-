@@ -387,7 +387,7 @@ MIT License — feel free to use this project as a template or learning resource
 
 <p align="center">
   <strong>Built with ⚡ by NEXUS Corporation</strong><br/>
-  <sub>Powered by quantum technology from the year 2097</sub><br/><br/>
+  <sub>Powered by quantum technology from the year 2026</sub><br/><br/>
   <a href="https://github.com/ankhangbc2021-oss/NEXUS-.git">⭐ Star this repo on GitHub</a>
 </p>
 "# NEXUS-" 
